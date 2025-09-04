@@ -1,0 +1,18 @@
+{
+  "discordWebhookUrl": "",
+  "gelbooruApiKey": "",
+  "gelbooruUserId": "",
+  "searches": [
+    {
+      "tags": "elaina_(majo_no_tabitabi) ",
+      "ratings": ["rating:{sensitive ~ general}"]
+    },
+    {
+      "tags": "shirakami_fubuki ",
+      "ratings": ["rating:{sensitive ~ general}"]
+    }
+  ],
+  "threadId": "",
+  "avatarUrl": "",
+  "pollingIntervalSeconds": 60
+}

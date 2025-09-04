@@ -1,0 +1,11 @@
+{
+  "name": "gelbooru-discord",
+  "version": "1.0.0",
+  "description": "Sends random Gelbooru art to a Discord webhook.",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "node-cron": "^3.0.3",
+    "node-vibrant": "^3.2.1-alpha.1"
+  }
+}
